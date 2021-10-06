@@ -1,1 +1,1 @@
-# boto3_digitalOcean_S3_Compatibitlity
+# boto3_digitalOcean_s3_compatibitlity
