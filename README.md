@@ -1,4 +1,4 @@
-# boto3_digitalOcean_s3_compatibitlity
+# boto3_digitalOcean_s3_compatibility
 Note! -> This repository contains all the working code which i'm using in my project: apkfuel.com
 
 This repository contains the below functionalities:
