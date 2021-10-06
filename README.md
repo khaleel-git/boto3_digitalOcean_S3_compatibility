@@ -1,5 +1,5 @@
 # boto3_digitalOcean_s3_compatibitlity
-Note! -> This repository contains all the working code which i'm using in my project: apkfuel.com (to upload my website data to digital ocean space)
+Note! -> This repository contains all the working code which i'm using in my project: apkfuel.com
 
 This repository contains the below functionalities:
 
